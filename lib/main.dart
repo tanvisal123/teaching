@@ -46,7 +46,7 @@ class _HomeState extends State<Home> {
                child: Row(
                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
                  children: [
-                   Text("Item To Add",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),),
+                   Text("Item To sdasdaAdd",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),),
                    GestureDetector(
                      onTap: (){
                        Get.to(CartSmall());
